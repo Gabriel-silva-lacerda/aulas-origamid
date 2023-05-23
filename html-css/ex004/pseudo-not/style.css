@@ -1,0 +1,7 @@
+.lista-2 li {
+    background-color: #caf;
+}
+
+.lista-2 li:not(:first-child) {
+    background-color: #caf;
+}

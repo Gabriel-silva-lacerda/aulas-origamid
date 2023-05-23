@@ -1,0 +1,15 @@
+.lista-1 li:nth-child(3) {
+    background-color: #caf;
+}
+
+.lista-2 li:nth-child(3) {
+    background-color: #caf;
+}
+
+.lista-1 li:nth-child(odd) {
+    background-color: #caf;
+}
+
+.lista-2 li:nth-child(1) {
+    background-color: #caf;
+}
